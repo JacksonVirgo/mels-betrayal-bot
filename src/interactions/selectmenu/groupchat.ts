@@ -1,4 +1,4 @@
-import { CategoryChannel, ChannelType, Guild, OverwriteResolvable } from 'discord.js';
+import { type CategoryChannel, ChannelType, type Guild, type OverwriteResolvable } from 'discord.js';
 import { SelectMenu } from '../../structures/interactions';
 import { getRandomChannelName } from '../../utils/random';
 
